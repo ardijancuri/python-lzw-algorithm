@@ -1,0 +1,2 @@
+Hello, we are Team99 and we are studying for Timski Proekt. 
+We have topic for LZW-Algorithm and use encoder.py for compressing files and decoder.py for decompression.
